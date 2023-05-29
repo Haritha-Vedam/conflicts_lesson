@@ -1,0 +1,5 @@
+Hi 
+This is line 1
+I tried nano file.txt command on terminal and it opens into this
+This is line2\
+
